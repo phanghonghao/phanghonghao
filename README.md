@@ -16,17 +16,6 @@
 
 I am building quadruped robots, humanoid locomanipulation systems, and developer tools...
 
-### 🔥 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/phanghonghao/FuRoC-MagicBot-Z1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=phanghonghao&repo=FuRoC-MagicBot-Z1&theme=radical" />
-  </a>
-  <a href="https://github.com/phanghonghao/FuRoC-SO-ARM101-LeRobot">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=phanghonghao&repo=FuRoC-SO-ARM101-LeRobot&theme=radical" />
-  </a>
-</p>
-
 ### 🌐 Connect with me
 
 <p align="left">
