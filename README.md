@@ -11,7 +11,6 @@
 - 🧠 Research interests: **Robot Learning × Sim2Real**, making legged robots learn through experience
 - 🧰 I'm skilled in: **Python, PyTorch, Isaac Lab, MuJoCo, ROS2, hardware prototyping**
 - 💬 Ask me about: **MuJoCo, Isaac Lab, reinforcement learning, legged robot control, sim2real**
-- 🧾 I'm building [MagicBot-Z1](https://github.com/phanghonghao/FuRoC-MagicBot-Z1) and [FuRoC-LeRobot](https://github.com/phanghonghao/FuRoC-SO-ARM101-LeRobot) – quadruped & robotic arm platforms
 - 📫 Reach me at: `phanghonghao@gmail.com`
 
 I am building quadruped robots, humanoid locomanipulation systems, and developer tools...
